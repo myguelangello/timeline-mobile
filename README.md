@@ -9,3 +9,6 @@
     ✅ Expo GO
     ✅ NativeWind (TailwindCSS para React Native)
     ✅ ESLint + Prettier Tailwind
+    ✅ Expo Goolge Fonts: 
+      - Bai Jamjuree 
+      - Roboto
