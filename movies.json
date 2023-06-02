@@ -1,0 +1,119 @@
+[
+  {
+    "id": 11,
+    "nome": "Pulp fiction: tempo de violência",
+    "poster_url": "https://bit.ly/3qh32pq",
+    "nota": 8.9,
+    "ano": 1994,
+    "sinopse": "Histórias interligadas de gangsters, boxeadores, assassinos e personagens excêntricos se desenrolam em uma trama não linear e repleta de violência.",
+    "genero": "Crime"
+  },
+  {
+    "id": 12,
+    "nome": "Clube da luta",
+    "poster_url": "https://bit.ly/3Ne4thD",
+    "nota": 8.8,
+    "ano": 1999,
+    "sinopse": "Um homem desiludido e entediado forma um clube de luta clandestino como uma forma de rebelião contra a sociedade.",
+    "genero": "Drama"
+  },
+  {
+    "id": 13,
+    "nome": "O senhor dos anéis: o retorno do rei",
+    "poster_url": "https://bit.ly/43BT0h9",
+    "nota": 8.9,
+    "ano": 2003,
+    "sinopse": "A conclusão épica da jornada de Frodo Baggins para destruir o Anel do Poder e salvar a Terra-média.",
+    "genero": "Fantasia"
+  },
+  {
+    "id": 14,
+    "nome": "A origem",
+    "poster_url": "https://bit.ly/3MHHtGf",
+    "nota": 8.8,
+    "ano": 2010,
+    "sinopse": "Um ladrão especializado em extrair segredos das mentes é contratado para implantar uma ideia na mente de um CEO.",
+    "genero": "Ficção científica"
+  },
+  {
+    "id": 15,
+    "nome": "Vingadores: ultimato",
+    "poster_url": "https://bit.ly/3C4sUHO",
+    "nota": 8.4,
+    "ano": 2019,
+    "sinopse": "Os heróis da Marvel se unem para derrotar Thanos e restaurar a ordem no universo.",
+    "genero": "Ação"
+  },
+  {
+    "id": 16,
+    "nome": "Coringa",
+    "poster_url": "https://bit.ly/45CH7Ju",
+    "nota": 8.4,
+    "ano": 2019,
+    "sinopse": "A história de origem do icônico vilão do Batman, explorando sua transformação em um criminoso psicopata.",
+    "genero": "Drama"
+  },
+  {
+    "id": 17,
+    "nome": "Parasita",
+    "poster_url": "https://bit.ly/43foXMb",
+    "nota": 8.6,
+    "ano": 2019,
+    "sinopse": "A história de uma família pobre que se infiltra na vida de uma família rica, revelando segredos sombrios.",
+    "genero": "Suspense"
+  },
+  {
+    "id": 18,
+    "nome": "Interestelar",
+    "poster_url": "https://bit.ly/3qglEpI",
+    "nota": 8.6,
+    "ano": 2014,
+    "sinopse": "Um grupo de exploradores viaja através de um buraco de minhoca no espaço, em busca de um novo lar para a humanidade.",
+    "genero": "Ficção científica"
+  },
+  {
+    "id": 19,
+    "nome": "Homem-Aranha no Aranhaverso",
+    "poster_url": "https://bit.ly/3ILPXLf",
+    "genero": "Animação",
+    "ano": 2018,
+    "nota": 8.4,
+    "sinopse": "Miles Morales, um adolescente do Brooklyn, descobre que é o novo Homem-Aranha e precisa aceitar suas novas habilidades. Ele se junta a outros Homens-Aranha de diferentes realidades para impedir uma ameaça que coloca em risco todas as dimensões. Juntos, eles formam o Aranhaverso e lutam contra o vilão Kingpin."
+  },
+  {
+    "id": 23,
+    "nome": "O Labirinto do Fauno",
+    "poster_url": "https://bit.ly/3INlfkU",
+    "genero": "Fantasia",
+    "ano": 2006,
+    "nota": 8.2,
+    "sinopse": "Em meio à guerra civil espanhola, uma jovem chamada Ofélia escapa para um mundo mítico e labiríntico, onde ela encontra criaturas mágicas e perigosas. Para voltar para casa, Ofélia deve realizar três tarefas perigosas, enfrentando a brutalidade do mundo real e a fantasia"
+  },
+  {
+    "id": 22,
+    "nome": "Cidade de Deus",
+    "poster_url": "https://bit.ly/3OIVeqN",
+    "genero": "Drama",
+    "ano": 2002,
+    "nota": 8.6,
+    "sinopse": "Baseado em fatos reais, o filme retrata a vida de moradores da Cidade de Deus, uma favela no Rio de Janeiro. A história segue a vida de dois jovens, Buscapé e Dadinho, enquanto crescem em meio ao crime, violência e busca por uma chance de escapar desse ambiente."
+  },
+  {
+    "id": 20,
+    "nome": "O Poderoso Chefão",
+    "poster_url": "https://bit.ly/3OJou0n",
+    "genero": "Drama",
+    "ano": 1972,
+    "nota": 9.2,
+    "sinopse": "A saga da família Corleone, uma das mais poderosas famílias da máfia italiana nos Estados Unidos. O filme acompanha a ascensão de Michael Corleone ao poder e as consequências violentas dessa vida cheia de intrigas, traições e lealdades questionáveis."
+  },
+  {
+    "id": 21,
+    "nome": "Matrix",
+    "poster_url": "https://bit.ly/43vGT54",
+    "genero": "Ficção Científica",
+    "ano": 1999,
+    "nota": 8.7,
+    "sinopse": "Thomas Anderson, um programador de software, é secretamente um hacker conhecido como Neo. Ele descobre que a realidade em que vive é uma simulação criada por máquinas inteligentes. Neo se junta a um grupo de rebeldes e embarca em uma jornada para libertar a humanidade do controle das máquinas."
+  }
+]
